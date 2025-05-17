@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+legend{
+	font-weight:bold;
+}
+blockquote{
+	Max-width: 600px;
+	Margin : 10px;
+	Padding: 15px;
+	border-left: 8px solid green;
+	Background-color : #f8fffe;
+	Font-weight:lighten;
+}
